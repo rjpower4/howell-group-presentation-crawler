@@ -1,0 +1,66 @@
+urlroot = "https://engineering.purdue.edu/AAE/research/Groups/howell/collaboration/meetings/research"
+
+[content_types]
+audio = [
+    "application/x-unknown-audio-mpeg",
+]
+excel = [
+    "application/vnd.ms-excel"
+]
+executable = [
+    "application/x-ms-dos-executable"
+]
+html = [
+    "text/html",
+]
+image = [
+    "image/bmp",
+    "video/quicktime",
+    "image/jpeg",
+    "image/png",
+    "image/gif",
+]
+pdf = [
+    "application/pdf",
+    "application/x-unknown-application-x-unknown-application-pdf",
+    "application/x-unknown-application-pdf",
+    "application/x-pdf" ,
+    "application/x-unknown-application-x-pdf",
+    "text/pdf",
+]
+powerpoint = [
+    "application/vnd.ms-powerpoint",
+    "application/vnd.openxmlformats-officedocument.presentationml.presentation" ,
+    "application/vnd.ms-powerpoint.presentation.macroenabled.12",
+    "application/x-unknown-application-vnd.ms-powerpoint",
+    "application/vnd.openxmlformats-officedocument.presentationml.slideshow",
+    "application/powerpoint",
+    "application/x-unknown-application-vnd.ms-powerpoint.presentation.12",
+    "application/vnd.ms-powerpoint.presentation.12",
+    "application/x-unknown-application-x-unknown-application-vnd.openxmlformats-officedocument.presentationml.presentation",
+    "application/x-unknown-application-vnd.openxmlformats-officedocument.presentationml.presentation",
+    "application/x-unknown-application-ms-powerpoint",
+    "application/vnd.oasis.opendocument.presentation",
+]
+text = [
+    "text/plain",
+]
+video = [
+    "video/x-msvideo",
+    "video/avi",
+    "video/x-m4v",
+    "application/x-unknown-video-avi",
+    "video/mp4",
+    "video/x-ms-asf",
+    "video/*",
+    "video/ogg",
+    "video/x-ms-wmv",
+    "video/mpeg",
+]
+word = [
+    "application/msword",
+]
+zip = [
+    "application/zip",
+    "application/x-zip-compressed",
+]
